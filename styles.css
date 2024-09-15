@@ -6,3 +6,22 @@ canvas {
 //  display: block;
 //  margin: auto;
 }
+
+#changelog {
+  margin-left: auto; 
+  margin-right: 0;
+  position: absolute;
+  top: 100px;
+  right: 350px;
+}
+
+#changelog > * {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+#controls > h3 {
+  width: 120px;
+  text-align: center;
+}
